@@ -1,6 +1,7 @@
 # Cyberbullying_Classification
 
 Classify text into 5 categories :
+
 1.Religion            
 2.Age                 
 3.Ethnicity           
