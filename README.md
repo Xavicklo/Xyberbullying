@@ -1,4 +1,4 @@
-# Cyberbullying_Classification
+# Cyberbullying Classification
 
 Classify text into 5 categories :
 
